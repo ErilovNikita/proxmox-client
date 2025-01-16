@@ -1,5 +1,5 @@
 # proxmox-client
-<!-- [![PyPI Version](https://img.shields.io/pypi/v/proxmox-client)](https://pypi.org/project/proxmox-client) -->
+[![PyPI Version](https://img.shields.io/pypi/v/proxmox-client)](https://pypi.org/project/proxmox-client)
 
 Python client for Proxmox
 
